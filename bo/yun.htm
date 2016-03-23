@@ -1,0 +1,37 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>王朝影音云点播</title>
+</head>
+<body>
+<div id="a1"></div>
+<script type="text/javascript" src="ckplayer.js" charset="utf-8"></script>
+
+<script>
+function GetQueryString(name)
+{
+     var reg = new RegExp("(^|&)"+ name +"=([^&]*)(&|$)");
+     var r = window.location.search.substr(1).match(reg);
+     if(r!=null)return  unescape(r[2]); return null;
+}	
+</script>
+
+
+
+<script type="text/javascript">
+
+
+
+	var flashvars={
+		f:'http://www.77kpw.cc:7722/?id=' + decodeURIComponent(GetQueryString("id")) ,
+		c:0,
+		b:1,
+		p:1,//视频默认0是暂停，1是播放，2是不加载视频
+		};
+	var params={bgcolor:'#FFF',allowFullScreen:true,allowScriptAccess:'always',wmode:'transparent'};
+	CKobject.embedSWF('ckplayer.swf','a1','ckplayer_a1','930','540',flashvars,params);	
+
+</script>
+</body>
+</html>

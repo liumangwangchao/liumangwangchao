@@ -1,0 +1,65 @@
+﻿<list>
+<m src="http://cdn.pronvod.com/e/43680024" label="美国派1：美国处男"/>
+<m src="http://cdn.pronvod.com/e/43680042" label="美国派2：处男有喜"/>
+<m src="http://cdn.pronvod.com/e/43680830" label="美国派3：美国婚礼"/>
+<m src="http://cdn.pronvod.com/e/43679692" label="美国派4：集体露营"/>
+<m src="http://cdn.pronvod.com/e/43681674" label="美国派5：裸奔派对"/>
+<m src="http://cdn.pronvod.com/e/43679659" label="美国派6：兄弟会"/>
+<m src="http://cdn.pronvod.com/e/43679660" label="美国派7：索爱天书"/>
+<m src="http://cdn.pronvod.com/e/43679334" label="美国派8：一杆进洞"/>
+<m src="http://cdn.pronvod.com/e/43679260" label="美国派9：我爱熟女"/>
+
+<m type="2" src="http://p2yy.com/letvyun.php?id=48099507" label="叶问3"color="#ff0000, #00ff00"/>
+<m type="2" src="http://p2yy.com/letvyun.php?id=47914257" label="美人鱼2016"color="#ff0000, #00ff00"/>
+<m type="2" src="http://p2yy.com/letvyun.php?id=47300717" label="澳门风云3"color="#ff0000, #00ff00"/>
+<m type="2" src="http://p2yy.com/letvyun.php?id=46895385" label="卧虎藏龙2：青冥宝剑"color="#ff0000, #00ff00"/>
+<m type="2" src="http://p2yy.com/letvyun.php?id=44937090" label="三打白骨精"color="#ff0000, #00ff00"/>
+<m label="超清电影" list_src="http://tv6080.pronvod.com/dy/qiyi.php" />
+<m label="分类电影" list_src="http://tv6080.pronvod.com/dy/qq.php" /> 
+<m label="高清电影" list_src="http://tv6080.pronvod.com/dy/youku.php" /> 
+<m label="好看电影" list_src="http://tv6080.pronvod.com/dy/fengxing.php" /> 
+<m label="热门排行" list_src="http://tv6080.pronvod.com/dy/sohu.php" /> 
+<m label="年度排行" list_src="http://tv6080.pronvod.com/dy/letv.php" /> 
+<m list_src="http://tv6080.pronvod.com/dsj/top.php" label="热门剧场排行榜"/>
+<m list_src="http://tv6080.pronvod.com/dsj/qiyi.php" label="分类剧场【火爆】"/>
+<m list_src="http://tv6080.pronvod.com/dsj/qq.php" label="综合新剧【火爆】"/>
+<m list_src="http://tv6080.pronvod.com/dsj/youku.php" label="高清剧场【火爆】"/>
+<m list_src="http://tv6080.pronvod.com/dsj/fengxing.php" label="热门排行【火爆】"/>
+<m list_src="http://tv6080.pronvod.com/dsj/sohu.php" label="月份排行【火爆】"/>
+<m list_src="http://tv6080.pronvod.com/dsj/letv.php" label="经典剧场【火爆】"/>
+<m list_src="http://tv6080.pronvod.com/ting/t89.php" label="有声小说【新热】"/>
+<m list_src="http://tv6080.pronvod.com/mv/youkugx.php" label="搞笑日排行"/>
+<m list_src="http://tv6080.pronvod.com/mv/56gx.php" label="搞笑周排行"/>
+<m list_src="http://tv6080.pronvod.com/zb/qq.php" label="国内卫视" />
+<m list_src="http://tv6080.pronvod.com/zb/sohutv.php" label="搜狐ＴＶ" />
+<m list_src="http://tv6080.pronvod.com/zb/douyu.php" label="游戏直播" />
+<m list_src="http://tv6080.pronvod.com/zb/cntv.php" label="央视回播" />
+<m list_src="http://tv6080.pronvod.com/xiu/kk.php" label="美女直播" />
+<m list_src="http://tv6080.pronvod.com/xiu/17173.php" label="推荐直播" />
+<m list_src="http://tv6080.pronvod.com/xiu/163.php" label="热门美女" />
+<m list_src="http://tv6080.pronvod.com/xiu/yy.php" label="金牌艺人" />
+<m list_src="http://tv6080.pronvod.com/mv/56.php" label="热舞视频排行"/>
+<m list_src="http://tv6080.pronvod.com/mv/youku.php" label="热舞美女"/>
+<m list_src="http://tv6080.pronvod.com/dj/88dj.php"  label="精选慢摇"  />
+<m list_src="http://tv6080.pronvod.com/dj/yaotou.php"  label="好听现场"  />
+<m list_src="http://tv6080.pronvod.com/dj/72dj.php"  label="劲爆串烧"  />
+<m list_src="http://tv6080.pronvod.com/dj/mcjd.php"  label="热门ＭＣ"  />
+<m list_src="http://tv6080.pronvod.com/dj/hcdj.php" label="最新舞曲" />
+<m list_src="http://tv6080.pronvod.com/dj/5ydj.php" label="好听舞曲" />
+<m list_src="http://tv6080.pronvod.com/dj/1tdj.php" label="嗨爆舞曲" />
+<m list_src="http://tv6080.pronvod.com/dj/dj97.php" label="月份舞曲" />
+<m list_src="http://tv6080.pronvod.com/dj/mvpdj.php" label="外文舞曲" />
+<m list_src="http://tv6080.pronvod.com/dj/26yy.php" label="爱音舞曲" />
+<m list_src="http://tv6080.pronvod.com/music/qq.php?m=webqq" label="推荐音乐" />
+<m list_src="http://tv6080.pronvod.com/music/yy.php" label="热门排行" />
+<m list_src="http://tv6080.pronvod.com/music/yycq.php" label="超清音乐" />
+<m list_src="http://tv6080.pronvod.com/music/kuwoyy.php" label="分类音乐" />
+<m list_src="http://tv6080.pronvod.com/music/duole.php" label="电台大全" />
+<m list_src="http://tv6080.pronvod.com/music/migu.php" label="好听大全" />
+<m list_src="http://tv6080.pronvod.com/music/9ku.php" label="经典分类" />
+<m list_src="http://tv6080.pronvod.com/music/51t.php" label="明细分类" />
+<m list_src="http://tv6080.pronvod.com/music/5singfc.php" label="翻唱大全" />
+<m list_src="http://tv6080.pronvod.com/music/5singyc.php" label="原创大全" />
+<m label="综艺热门排行榜" list_src="http://tv6080.pronvod.com/zy/youku.php?m=zy" />
+
+</list>
