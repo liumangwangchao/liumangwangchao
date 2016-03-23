@@ -1,0 +1,37 @@
+ <?xml version="1.0" encoding="UTF-8" ?> 
+- <list>
+<m list_src="q396978021/guzhaung.xml " label="古装电影大片" /> 
+<m list_src="q396978021/dongzuo.xml " label="动作电影大片" /> 
+<m list_src="q396978021/xiju.xml " label="喜剧电影大片" /> 
+<m list_src="q396978021/aiqing.xml " label="爱情电影大片" /> 
+<m list_src="q396978021/maoxian.xml " label="爱情电影大片" /> 
+<m list_src="q396978021/wenyi.xml " label="文艺电影大片" /> 
+<m list_src="q396978021/jinglai.xml " label="惊悚电影大片" /> 
+<m list_src="q396978021/jilu.xml " label="记录电影大片" /> 
+<m list_src="q396978021/zhanzhen.xml " label="战争电影大片" /> 
+<m list_src="q396978021/qingju.xml " label="剧情电影大片" /> 
+<m list_src="q396978021/tansuo.xml " label="探索电影大片" />
+<m list_src="q396978021/kehuan.xml " label="科幻电影大片" />
+<m list_src="q396978021/jiati.xml " label="家庭电影大片" /> 
+<m list_src="q396978021/xinjing.xml " label="刑侦电影大片" /> 
+<m list_src="q396978021/tinyu.xml " label="体育电影大片" /> 
+<m list_src="q396978021/shenhua.xml " label="神话电影大片" /> 
+<m list_src="q396978021/wuxia.xml " label="武侠电影大片" /> 
+<m list_src="q396978021/gongfu.xml " label="功夫电影大片" /> 
+<m list_src="q396978021/xianchun.xml " label="乡村电影大片" /> 
+<m list_src="q396978021/donghuan.xml " label="动画电影大片" /> 
+<m list_src="q396978021/shaoer.xml " label="少儿电影大片" /> 
+<m list_src="q396978021/qiangzhan.xml " label="枪战电影大片" /> 
+<m list_src="q396978021/qihuan.xml " label="奇幻电影大片" /> 
+<m list_src="q396978021/quanji.xml " label="传记电影大片" />
+<m list_src="q396978021/juilv.xml " label="军旅电影大片" /> 
+<m list_src="q396978021/qingchun.xml " label="青春电影大片" /> 
+<m list_src="q396978021/lizhi.xml " label="励志电影大片" /> 
+<m list_src="q396978021/nvxing.xml " label="女性电影大片" /> 
+<m list_src="q396978021/jingdian.xml " label="经典电影大片" /> 
+<m list_src="q396978021/xiqui.xml " label="戏曲电影大片" /> 
+<m list_src="q396978021/xyu.xml " label="悬疑电影大片" /> 
+<m list_src="q396978021/zonyi.xml " label="综艺电影大片" /> 
+<m list_src="q396978021/lishi.xml " label="历史电影大片" /> 
+<m list_src="q396978021/xilie.xml " label="系列电影大片" /> 
+  </list>

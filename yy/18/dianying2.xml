@@ -1,0 +1,37 @@
+﻿<list>
+<m label="m1905电影网全站去广告" color="#FF9999" list_src="dianying.xml" />
+<m label="超清电影" list_src="http://tv6080.pronvod.com/dy/qiyi.php" />
+<m label="分类电影" list_src="http://tv6080.pronvod.com/dy/qq.php" /> 
+<m label="高清电影" list_src="http://tv6080.pronvod.com/dy/youku.php" /> 
+<m label="好看电影" list_src="http://tv6080.pronvod.com/dy/fengxing.php" /> 
+<m label="热门排行" list_src="http://tv6080.pronvod.com/dy/sohu.php" /> 
+<m label="年度排行" list_src="http://tv6080.pronvod.com/dy/letv.php" /> 
+<m list_src="http://www.tv6080.com/dy1/zh/0.xml" label="爱情系列" />
+<m list_src="http://www.tv6080.com/dy1/zh/1.xml" label="动作系列" />
+<m list_src="http://www.tv6080.com/dy1/zh/2.xml" label="恐怖惊悚" />
+<m list_src="http://www.tv6080.com/dy1/zh/3.xml" label="搞笑喜剧" />
+<m list_src="http://www.tv6080.com/dy1/zh/4.xml" label="科幻系列" />
+<m list_src="http://www.tv6080.com/dy1/zh/5.xml" label="鬼片系列" />
+<m list_src="http://www.tv6080.com/dy1/zh/6.xml" label="僵尸系列" />
+<m list_src="http://www.tv6080.com/dy1/zh/7.xml" label="神偷系列" />
+<m list_src="http://www.tv6080.com/dy1/zh/8.xml" label="丧尸系列" />
+<m list_src="http://www.tv6080.com/dy1/zh/9.xml" label="赛车系列" />
+<m list_src="http://www.tv6080.com/dy1/zh/10.xml" label="男人最爱" />
+<m list_src="http://www.tv6080.com/dy1/zh/11.xml" label="微电影系" />
+<m list_src="http://www.tv6080.com/dy1/zh/12.xml" label="古惑仔系" />
+<m list_src="http://www.tv6080.com/dy1/zh/13.xml" label="赌片系列" />
+<m list_src="http://www.tv6080.com/dy1/zh/14.xml" label="动物类系" />
+<m list_src="http://www.tv6080.com/dy1/zh/15.xml" label="金庸经典" />
+<m list_src="http://www.tv6080.com/dy1/zh/16.xml" label="四大名著" />
+<m list_src="http://www.tv6080.com/dy1/zh/17.xml" label="周润发系" />
+<m list_src="http://www.tv6080.com/dy1/zh/18.xml" label="李连杰系" />
+<m list_src="http://www.tv6080.com/dy1/zh/19.xml" label="小沈阳系" />
+<m list_src="http://www.tv6080.com/dy1/zh/20.xml" label="甄子丹系" />
+<m list_src="http://www.tv6080.com/dy1/zh/21.xml" label="周星驰系" />
+<m list_src="http://www.tv6080.com/dy1/zh/22.xml" label="刘德华系" />
+<m list_src="http://www.tv6080.com/dy1/zh/23.xml" label="成龙系列" />
+<m list_src="http://www.tv6080.com/dy1/zh/24.xml" label="林正英系" />
+<m list_src="http://www.tv6080.com/dy1/zh/25.xml" label="葛优系列" />
+<m list_src="http://www.tv6080.com/dy1/zh/26.xml" label="阿诺杰森" />
+<m list_src="http://www.tv6080.com/dy1/zh/27.xml" label="释小龙系" />
+</list>

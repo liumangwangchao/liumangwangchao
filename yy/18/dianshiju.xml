@@ -1,0 +1,10 @@
+<list>
+<m list_src="http://tv6080.pronvod.com/dsj/top.php" label="热门剧场排行榜"/>
+<m list_src="http://tv6080.pronvod.com/dsj/qiyi.php" label="分类剧场【火爆】"/>
+<m list_src="http://tv6080.pronvod.com/dsj/qq.php" label="综合新剧【火爆】"/>
+<m list_src="http://tv6080.pronvod.com/dsj/youku.php" label="高清剧场【火爆】"/>
+<m list_src="http://tv6080.pronvod.com/dsj/fengxing.php" label="热门排行【火爆】"/>
+<m list_src="http://tv6080.pronvod.com/dsj/sohu.php" label="月份排行【火爆】"/>
+<m list_src="http://tv6080.pronvod.com/dsj/letv.php" label="经典剧场【火爆】"/>
+
+</list>
