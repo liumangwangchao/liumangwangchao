@@ -1,0 +1,4 @@
+document.write("<p style='text-align:center;padding:0;'>电影来自互联网,所有影片仅供测试和学习交流<br>请大家支持正版,如有侵权联系396978021@qq.com删除<\/p>");
+document.write("<div style='text-align:center;padding:0;'> <img border='0' src='http://qzonestyle.gtimg.cn/qzone/vas/opensns/res/img/tengxunyunanquanrenzheng-02.png?size=74x27'\/><\/div>");
+
+var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1257715013' style='display:none' %3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s11.cnzz.com/z_stat.php%3Fid%3D1257715013' type='text/javascript'%3E%3C/script%3E"));
